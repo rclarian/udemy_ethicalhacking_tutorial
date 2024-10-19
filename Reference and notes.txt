@@ -5,3 +5,12 @@ Types of hackers:
 1. Black-hat hackers - they are the bad hackers
 2. White-hat hackers - good hackers
 3. Grey-hat hackers - combine good and bad hackers
+
+--Linux command
+https://www.mediacollege.com/linux/command/linux-command.html
+
+--explainshell.com
+https://explainshell.com/
+
+--install program on kali
+apt-get install terminator
