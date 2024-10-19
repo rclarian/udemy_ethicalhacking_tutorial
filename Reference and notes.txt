@@ -6,6 +6,7 @@ Types of hackers:
 2. White-hat hackers - good hackers
 3. Grey-hat hackers - combine good and bad hackers
 
+#11.The Terminal and Linux commands
 --Linux command
 https://www.mediacollege.com/linux/command/linux-command.html
 
@@ -14,3 +15,17 @@ https://explainshell.com/
 
 --install program on kali
 apt-get install terminator
+
+#12.Introduction to Network Hacking / Penetration
+1. Network Hacking
+ A. Pre-connection attacks
+ B. Gaining Access
+ C. Post-connection attacks
+
+
+
+
+
+
+
+
