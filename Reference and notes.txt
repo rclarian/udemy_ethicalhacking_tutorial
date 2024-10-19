@@ -1,0 +1,7 @@
+URL: https://www.udemy.com/course/learn-ethical-hacking-from-scratch/learn/lecture/43705766#overview
+
+#3. What is hacking and why learn it.
+Types of hackers:
+1. Black-hat hackers - they are the bad hackers
+2. White-hat hackers - good hackers
+3. Grey-hat hackers - combine good and bad hackers
